@@ -1,0 +1,135 @@
+a:hover{
+    color: #3cb0fd;
+}
+
+.body {
+    background-color:red;
+    font-family: 'Merriweather', serif;
+}
+
+.contact{
+    display: inline-block;
+    position: absolute;
+    bottom: 30px;
+    right: 200px;
+    font-size: 1.2rem;
+    
+}
+
+
+.main{
+    background-color: lightblue;
+    width:750px;
+    height:600px;
+    position:relative;
+    border-radius:20px;
+    margin: 75px 0 0 380px;
+}
+
+.sign{
+    display: inline-block;
+    margin: 330px 0 0 390px;
+    font-size: 1rem;
+
+}
+
+.p2{
+    position: absolute;
+    top: 500px;
+    right: 90px;
+    width: 30%;
+    font-size: 1.1rem;
+}
+
+.sub1{
+    display:inline-block;
+    position:absolute;
+    top: 200px;
+    left: 40px;
+    
+}
+
+.sub2{
+    display:inline-block;
+    position:absolute;
+    right:250px;
+    top:138px;
+    padding-right: 15px;
+    
+}
+
+.sub3{
+    display:inline-block;
+    position:absolute;
+    right:10px;
+    top: 138px;
+    padding-right:15px;
+}
+
+input{
+    width:100%;
+    margin:12px 0px;
+    border:0;
+    border-bottom:2px solid;
+    border-radius:3px;
+    padding:3px 0px;
+    
+}
+
+h1{
+    font-size:3rem;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    padding-left:320px;
+    padding-top:70px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.box{
+    display: inline-block;
+    position: absolute;
+    width: 5%;
+    bottom: 220px;
+    right: 400px;
+}
+
+.terms{
+    position: absolute;
+    bottom: 229.5px;
+    right: 120px;
+}
+
+.btn{
+    position:absolute;
+    left: 450px;
+    bottom: 175px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
